@@ -11,7 +11,7 @@
   </p>
   <p> Just your job is so simple.Just fill the Registeration form given below.Submit to join our family.
   </p>
-  
+ <form>
 <h3>Registeration form</h3>
 </head>
 
@@ -24,6 +24,7 @@
 <input type="password"placeholder="confirm password"maxlength="8"> <br> <br>
 <input type="radio"> By creating an account you agree to our Terms & Privacy <br> <br>  
 <input type="submit"value="submit">
+</form>
 
 <h2>NEWS LETTER </h2>
 <p>Thanking for signing up in our reputed organization.we are very happy.Subscribe here for stay connected with us.</p>
